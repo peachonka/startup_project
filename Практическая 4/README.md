@@ -3,7 +3,9 @@
 # Команда 4: Баранова С.А., Тимина М.И., Хмара Е.Е., Холодченко А.К.
 # Формирование слайдов инвестиционного дека: рынок, клиент (потребность).
 
-## Ссылка на презентацию: https://www.figma.com/deck/dP1X0Erp112mUjo2P7hNT5
+## Ссылка на презентацию: 
+- Figma: https://www.figma.com/deck/dP1X0Erp112mUjo2P7hNT5
+- Google Диск: https://drive.google.com/file/d/1cnkcrsnmo1FlJOhvC8pwZFB2IJ3OR5F6/view?usp=sharing
 
 ## **1\. Problem**
 
