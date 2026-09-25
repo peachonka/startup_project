@@ -7,6 +7,8 @@
 ## Хостинг продающего сайта.
 
 Ссылка на лендинг: https://frankiww.github.io/WalkieLanding/
+
 Результаты сбора метрик: https://github.com/peachonka/startup_project/blob/main/Практическая%202.3/Walkie%20—%20Обзор%20—%20Яндекс.Метрика.pdf
+
 Политика обработки персональных данных: https://github.com/peachonka/startup_project/blob/main/Практическая%202.3/Копия%20Политика%20конфиденциальности%20(2).pdf
 
